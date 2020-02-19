@@ -1,4 +1,4 @@
-### this script auotomatically creates silence_textgrid ###
+### this script auotomatically creates textgrid(silences) ###
 
 form make TextGrids
 	sentence source_directory D:
